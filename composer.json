@@ -10,6 +10,9 @@
             "name": "JpGraph team"
         }
     ],
+    "require": {
+        "php": ">=5.2.0"
+    },
     "autoload": {
         "psr-0" : {
             "JpGraph" : "lib/"
